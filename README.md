@@ -1,4 +1,3 @@
-# my-dashboard-odoo
 My Dashboard Odoo
 =================
 
